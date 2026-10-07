@@ -23,7 +23,7 @@ Tech stack: React, TypeScript, REST API, Axios, Git, GitHub
 Role: Developer. Built React components with TypeScript, integrated REST API, and implemented pagination and search functionality.
 
 🗣️ Languages
-https://img.shields.io/badge/English-Intermediate-blue		      https://img.shields.io/badge/Ukrainian-Native%20-green
+![English](https://img.shields.io/badge/English-Intermediate-blue)	|   ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native%20-green)
 
 📫 How to reach me: 
 [LinkedIn](https://www.linkedin.com/in/veronika-sarabun/) | [Email](matkivskaveronika@gmail.com)
